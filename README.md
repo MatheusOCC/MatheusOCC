@@ -35,4 +35,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/matheuscerqueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.hackerrank.com/profile/MatheusOCC" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>  
   <a href="https://stackoverflow.com/users/21124903/matheus-cerqueira" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
+  <a href="https://www.kaggle.com/matheusocc" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank">
 </div>
