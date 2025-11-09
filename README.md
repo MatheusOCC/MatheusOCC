@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 <div>
   <href = 'https://github.com/MatheusOCC'>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusOCC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOCC&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
